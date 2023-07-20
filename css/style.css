@@ -639,6 +639,10 @@ input::placeholder {
   margin-bottom: 8px;
 }
 
+.modal-form-label:nth-child(4){
+  margin-bottom: 16px;
+}
+
 .modal-label{
   font-size: 12px;
   line-height: 1.17;
