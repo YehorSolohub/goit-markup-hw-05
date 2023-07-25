@@ -730,8 +730,6 @@ input::placeholder {
   line-height: 1.17;
   letter-spacing: 0.04em;
   color:#8e8f99;
-  display:inline-flex;
-  gap:8px;
  }
 
  .modal-privacy-policy{
@@ -752,7 +750,7 @@ input::placeholder {
  }
 
  .modal-checkbox-link{
-  color:var(--iris)
+  color:var(--iris);
  }
 
  .modal-checkbox-btn{
